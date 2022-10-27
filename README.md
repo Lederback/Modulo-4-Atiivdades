@@ -8,4 +8,4 @@ https://github.com/Lederback/Modulo-4-Atiivdades/tree/main/SEMANA_01/EXERCICIOS/
 https://github.com/Lederback/Modulo-4-Atiivdades/tree/main/SEMANA_03/Exerc%C3%ADcio%20Infraestrutura%20e%20ferramentas
 
 <h4>Exercício Programação de Microcontroladores</h4>
-https://github.com/Lederback/Modulo-4-Atiivdades/tree/main/SEMANA_03/ExercicioSemana3
+https://github.com/Lederback/Modulo-4-Atiivdades/tree/main/SEMANA_03/Exerc%C3%ADcio%20Programa%C3%A7%C3%A3o%20Microcontroladores/ExercicioSemana3
